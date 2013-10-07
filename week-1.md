@@ -3,19 +3,18 @@
 1. [Learning Objectives](week-1/learning-objectives.md)
 1. [Group Projects](week-1/group-projects)
 1. [Lightning Talks](week-1/lightning-talks.md)
-1. [Side Project Ideas](#crazy-side-project-ideas)
-1. [Tutorials](#reasonable-tutorials)
+1. [Optimize Your Learning ](#optimize-your-learning)
 
-
-## Crazy Side Project Ideas
+## Optimize Your Learning
+### Crazy Side Project Ideas
 1. Make a website where you put in a url and it tells you how sad or happy the page is
 1. Make a web based tic-tac-toe or connect 4!
 1. Write twitter! Then IPO!
 1. Contribute a pull request to [gossyp](https://github.com/Devbootcamp/gossyp)
 
-## Reasonable Tutorials
+### Reasonable Tutorials
 
-### Level 1
+#### Level 1
 
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
@@ -23,7 +22,7 @@
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
 
-### Level 2
+#### Level 2
 
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm)
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0)
